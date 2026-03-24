@@ -2,7 +2,7 @@ Here’s a clean and professional **README.md** for your project 👇
 
 ---
 
-# Smart / Pro Port Scanner
+network port Scanner gui
 
 ## Overview
 
