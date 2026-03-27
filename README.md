@@ -2,11 +2,11 @@
 
 ---
 
-network port Scanner gui
+
 
 ## Overview
 
-The Smart Port Scanner is a Python-based GUI application designed to scan a target system (IP address or domain) and identify open ports along with their associated services. It helps users understand network exposure and detect potential security risks.
+The network port Scanner gui is a Python-based GUI application designed to scan a target system (IP address or domain) and identify open ports along with their associated services. It helps users understand network exposure and detect potential security risks.
 
 ---
 
